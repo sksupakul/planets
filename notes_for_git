@@ -1,0 +1,5 @@
+Git commands:
+git init - initializes git in the folder
+git status - checks the status of the git program
+git add - adds files and changes to the stage
+git commit -m "" - commits a change and logs it 
